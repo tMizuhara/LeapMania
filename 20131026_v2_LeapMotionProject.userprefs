@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVR\Scripts\NodeGenerator.cs">
+    <Files>
+      <File FileName="Assets\OVR\Scripts\NodeGenerator.cs" Line="15" Column="43" />
+      <File FileName="Assets\OVR\Scripts\BGMPlayer.cs" Line="11" Column="41" />
+      <File FileName="Assets\OVR\Scripts\GameBGMPlayer.cs" Line="13" Column="42" />
+      <File FileName="Assets\OVR\Scripts\NodeManager.cs" Line="35" Column="62" />
+      <File FileName="Assets\Plugin\LeapBehaviourScript.cs" Line="29" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVR\Scripts\NodeGenerator.cs">
+    <Files>
+      <File FileName="Assets\OVR\Scripts\Taiko1Behavior.cs" Line="18" Column="33" />
+      <File FileName="Assets\Plugin\LeapBehaviourScript.cs" Line="124" Column="75" />
+      <File FileName="Assets\OVR\Scripts\Taiko2Behavior.cs" Line="36" Column="1" />
+      <File FileName="Assets\OVR\Scripts\Taiko3Behavior.cs" Line="36" Column="1" />
+      <File FileName="Assets\OVR\Scripts\NodeGenerator.cs" Line="24" Column="158" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
